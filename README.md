@@ -1,4 +1,4 @@
-# Femboysslayer27
+# Femboy the Slayer
 
 A Discord bot created to assist Embers in Torn, with multiple functions.
 An automation and administration bot.
